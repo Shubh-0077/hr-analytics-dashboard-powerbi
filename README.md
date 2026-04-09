@@ -54,6 +54,7 @@ The dashboard provides:
 * Employee availability tracking
 
 ## 📷 Dashboard Preview
+<img width="1107" height="622" alt="Screenshot 2026-04-09 221313" src="https://github.com/user-attachments/assets/184dafb1-e3b6-41e9-b25e-a6852f4182ca" />
 
 
 
